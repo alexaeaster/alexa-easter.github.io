@@ -1,22 +1,22 @@
 main:
 
-  - title: Changes in Pack Features Among Top-Selling Cigarettes in the U.S., 2018 and 2021
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+  - title: "Changes in Pack Features Among Top-Selling Cigarettes in the U.S., 2018 and 2021"
+    authors: Daniel P Giovenco*, Ollie Ganz, Torra E Spillane, <strong>Alexa Easter</strong>, Zongwei Zhou (*Corresponding authors)
+    conference_short: AJPM
+    conference: American Journal of Preventive Medicine <strong>(AJPM)</strong>, 2023.
+    pdf: https://pdf.sciencedirectassets.com/271902/AIP/1-s2.0-S0749379723002489/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDP%2BTzmfhxYDTD%2FN8RJRTMECJ4XrSKRLgGelxL9XsPE9QIhAK8BqvZ36WT8IDNf3gz%2FbvZIoWWEcC3S3WNmTTzOdKQhKrMFCHwQBRoMMDU5MDAzNTQ2ODY1IgyEO0OcHGzTm0l9BlkqkAVExcCtHyMT8hPHozb2MMKXTrmppvh4QairDUXP%2BzCtGUnnOZFEthwcOrkVTXFyCYe3gg0MDJgN9f%2BR8js7MkFPDDSbIz6rK%2FHsaVtXmk18J3fCLbziSpq7nlcbeVx8VwTqpiZ1fRfRxU%2BLYxwnT5JNPtPzxMrHMmIyULCsYInoaxiTTt6nJhhi%2BxkZg48%2Fpty2auJShWAQCAsDB5tG3JTYVv5Ik3%2FsuWvIi5tOOOBv1SUu6DNrE1FBnCE9IQ7Wr7%2FDsUnXwbbRrfaSaSoTD%2BTNCKBRqaUpFHQnoT%2BonxiE7zF2LLlWyzAlKySWROnFXqgV5oq%2FxzLoaceOxLb%2BgvEmt7Ey56Z%2FCy1HPzTVYdf1cXtve9Mt8NBXMgfcYqp9nGk0r1bDDYKuYZlA8qi7bdRpv0vCioPP%2FFZNsCqCrDqCuyHnn3ZsXeKWE%2BzWH019zY7wb7qSn9lTxgji4grZ%2Bmt9TLxOo4jo9sZ52oXwzSIDRdHKguVQe7cZUeAV0dNKaZ8rFMTvlz6jrjkbR%2BAI87lG%2B%2F%2FdntLegtAs8LTJ7wOhFMwloQnPyHMHrg52o1HEuOsmivy5nIq3C64SKhm7l2AdaNs9IFOhk6cc7o%2Fe6PTyqvQ6iF3vuXHWPy7Hb2AYq5ufPhAYfH1cXcYlMg3diOdVE5Ztor5acxB8N1vGjajtJ8EGjzb4xg0ZrdhALrogvYmg2V3VR2WraBgmWEmUUXrv34wfhXhMiwUiCva542YZMmOwOCfY%2B%2F%2BBRPqdQvZ992rkLtUIz0HDWxqVYkeEHlqxUiBXhNqH4uG3RDSxBgPRw4K79Yub5k4wbzFoX8Fb%2B6jopCFaPkkbsXK6fxyN7cayDACX%2F6bISMqU3ibg9uytjDCjv9ulBjqwAWwqo9wTR9gGSsyujF3j1G81EFsbcaZcGYITV79yRLEWqyNHcwKwtcUUOhOT7IoZB9foCnzSRMSWjqL2Gwvatmw0Q8QrGvrqzj9W99C8GvlCXB8QS1KMhD0yganzs1HZl5WDrTQklNCt1KheyCnmF8IXIzF%2BsoofXkFAMycLsvNFDO8BK6JLD0ZeX8WI9uDMhtP0jxcm5iZ%2FUAL9xrgUj4UR1FAQZ60qp7yrMSocv04%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230718T194242Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2K4TZB53%2F20230718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=de09b02e766e394dab93fbc824bf2c0fb40cdcd8a2c44ad02a13c2525e707594&hash=f5f5f3584701a4af9f58035877b2e21c55c23bf7af020999dc8c154455fe9f2e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0749379723002489&tid=spdf-81cd505d-28ce-4eb1-865f-b4cbe306d01d&sid=83c4efde19ef0649be080af9175b5141a452gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f1c560a570a55535802&rr=7e8d359d58c5443e&cc=us
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Journal Article
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Evaluating the Impact and Equity of a Novel Policy Intervention to Reduce Tobacco Retailer Density in New York City"
+    authors: Daniel P Giovenco, Christopher N Morrison, Christina A Mehranbod, Torra E Spillane, <strong>Alexa Easter</strong>, Diana Hernández, David K Humphreys, Christine M Mauro, Amanda Y Kong, Charles C Branas
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: Forthcoming
     image: ./assets/img/teaser_example.png
