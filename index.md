@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Post Baccalaureate Fellow at Barnard College.
 
 ## Research Interests
 
